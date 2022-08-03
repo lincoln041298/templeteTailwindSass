@@ -1,7 +1,5 @@
+@import "layout/header.scss";
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
-
-.header {
-  @apply text-red-600;
-}
